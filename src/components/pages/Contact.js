@@ -1,12 +1,13 @@
 import React from 'react';
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
+import '../styles/Header.css';
 
 export default function Contact() {
   return (
     <div>
       <h1>Contact Mark</h1>
-      <Form>
+      <Form className="contactFrom">
       <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
         <Form.Label>Email address</Form.Label>
         <Form.Control type="email" placeholder="name@example.com" />

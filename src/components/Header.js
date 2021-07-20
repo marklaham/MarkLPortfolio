@@ -10,7 +10,7 @@ import './styles/Header.css';
 
 const styles = {
   headerStyle: {
-    background: 'blue',
+    background: '%343A40',
   },
   headingStyle: {
     fontSize: '40px',
