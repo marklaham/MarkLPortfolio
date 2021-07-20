@@ -1,7 +1,5 @@
 import React from 'react';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
-import Container from 'react-bootstrap/Container';
+
 import Image from 'react-bootstrap/Image';
 import '../styles/Header.css';
 
@@ -13,12 +11,7 @@ export default function About() {
     <div>
       <h1>About Mark</h1>
     
-  
-  
-    
       <Image className="photo" src={ profilePic} roundedCircle />
-   
-  
       <p>
       Front-end web developer leveraging a background in stress/change management to provide unique perspectives on how end-users interact with websites and software platforms. Earned a certificate in Full Stack Web Development from the Carleton University Coding Boot Camp. Innovative problem-solver who is passionate about developing apps with a focus on mobile-first design and development. Strengths in creativity, teamwork, and building projects from ideation to execution.
       </p>

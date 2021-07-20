@@ -6,6 +6,7 @@
   background: #343A40;
   color: white;
   height: 100px;
+  padding-top: 50px;
 }
 
 .header h1 {
@@ -22,9 +23,15 @@
   
 }
 
+.card {
+
+  background-color: #343A40;
+  color: #212529;
+}
+
 .contactFrom {
   margin: 50px;
-  padding-top: 40px;
+  padding-top: 20px;
   text-align: left;
   background: #343A40;
 
