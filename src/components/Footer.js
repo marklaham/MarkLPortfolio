@@ -1,11 +1,9 @@
 import React from 'react';
 import './styles/Header.css';
-// By importing the Header.css file, it is added to the DOM whenever this component loads
 
-// We can also style a component inside of its JavaScript file by adding style properties to its rendered elements
-// Unlike regular HTML, a JSX style property must be an object instead of a string
-// On a style object, we camelCase all property names, and put all of the values in quotes
-// Non quoted values default to "pixels", e.g. height, margin, padding
+const gitHubURL = 'https://github.com/marklaham';
+const linkedInURL = 'https://www.linkedin.com/in/marklaham/';
+
 
 const styles = {
   footerStyle: {
@@ -24,7 +22,9 @@ const styles = {
 function Footer() {
   return (
     <footer style={styles.footerStyle} className="footer">
-      <h1 style={styles.h1Style}>@marklaham</h1>
+     <p>
+      <a href={gitHubURL}>GitHub Account</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href={linkedInURL}>LinkedIn Account</a>
+      </p> 
     </footer>
   );
 }

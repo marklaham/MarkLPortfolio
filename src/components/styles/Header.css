@@ -5,6 +5,7 @@
 .footer {
   background: #343A40;
   color: white;
+  padding-right: 20px;
   height: 100px;
   padding-top: 50px;
 }
@@ -26,7 +27,7 @@
 .card {
 
   background-color: #212529;
-  color: #343A40;
+  color: White;
 }
 
 .contactFrom {

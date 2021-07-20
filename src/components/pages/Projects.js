@@ -35,7 +35,7 @@ const projectArray = [
   },
   {
     "name": "Tech Blog",
-    "description": "minivan",
+    "description": "Wordpress type tech blog that allows you to create an account, posts and comments",
     "deployUrl": "https://blooming-ridge-54365.herokuapp.com/",
   },
  
