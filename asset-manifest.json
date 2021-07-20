@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/MarkLPortfolio/static/css/main.95ac3017.chunk.css",
-    "main.js": "/MarkLPortfolio/static/js/main.7bff54e3.chunk.js",
-    "main.js.map": "/MarkLPortfolio/static/js/main.7bff54e3.chunk.js.map",
+    "main.css": "/MarkLPortfolio/static/css/main.e07e9c86.chunk.css",
+    "main.js": "/MarkLPortfolio/static/js/main.6aba7185.chunk.js",
+    "main.js.map": "/MarkLPortfolio/static/js/main.6aba7185.chunk.js.map",
     "runtime-main.js": "/MarkLPortfolio/static/js/runtime-main.3dd91b86.js",
     "runtime-main.js.map": "/MarkLPortfolio/static/js/runtime-main.3dd91b86.js.map",
     "static/css/2.4be38407.chunk.css": "/MarkLPortfolio/static/css/2.4be38407.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.26ffe51e.chunk.js.map": "/MarkLPortfolio/static/js/2.26ffe51e.chunk.js.map",
     "index.html": "/MarkLPortfolio/index.html",
     "static/css/2.4be38407.chunk.css.map": "/MarkLPortfolio/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.95ac3017.chunk.css.map": "/MarkLPortfolio/static/css/main.95ac3017.chunk.css.map",
+    "static/css/main.e07e9c86.chunk.css.map": "/MarkLPortfolio/static/css/main.e07e9c86.chunk.css.map",
     "static/js/2.26ffe51e.chunk.js.LICENSE.txt": "/MarkLPortfolio/static/js/2.26ffe51e.chunk.js.LICENSE.txt",
     "static/media/MArkBioPhoto.73565502.jpg": "/MarkLPortfolio/static/media/MArkBioPhoto.73565502.jpg"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.3dd91b86.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.26ffe51e.chunk.js",
-    "static/css/main.95ac3017.chunk.css",
-    "static/js/main.7bff54e3.chunk.js"
+    "static/css/main.e07e9c86.chunk.css",
+    "static/js/main.6aba7185.chunk.js"
   ]
 }
