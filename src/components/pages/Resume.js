@@ -1,10 +1,16 @@
 import React from 'react';
+import Viewer from '../MyPDF';
+
+
 import '../styles/Header.css';
 
 export default function Resume() {
   return (
     <div>
-      <h1>Resume</h1>
+      <div style={{   alignItems:'center'}}></div>
+      <h1 className="">Resume</h1>
+      <Viewer />
+
       <pre>{`
       Front-end web developer leveraging a background in stress/change management to 
       provide unique perspectives on how end-users interact with websites and software 
