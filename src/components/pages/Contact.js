@@ -5,8 +5,9 @@ import '../styles/Header.css';
 
 export default function Contact() {
   return (
-    <div>
+    <div className="ContactInfo">
       <h1>Contact Mark</h1>
+      <p>To contact me you can fill out the form bellow your email me @ marklaham@gmail.com</p>
       <Form className="contactFrom">
       <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
         <Form.Label>Email address</Form.Label>
